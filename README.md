@@ -2,7 +2,8 @@
 A modular, colorful, and multithreaded Penetration Testing Toolkit built in Python. Designed for ethical hacking and cybersecurity learning, this toolkit includes tools like a Port Scanner and Brute Force Login Simulator, all in a GUI-based interface using tkinter.
 
 #Name- Pranav Ghodke
-#InternId - 
+
+#InternId - ETI-AO-10004097246
 
 Features
 ✅ Modular toolkit structure
@@ -20,12 +21,17 @@ Features
 PROJECT STRUCTURE-
 
 pen_test_toolkit/
+
 ├── main.py                  # Main GUI launcher
+
 ├── modules/
+
 │   ├── port_scanner.py      # Advanced multithreaded port scanner
+
 │   └── brute_forcer.py      # Brute force login simulator
+
 └── assets/
-    └── wordlist.txt         #  Sample password list
+   └── wordlist.txt         #  Sample password list
  
  **Modules Included
 🔍 Port Scanner
