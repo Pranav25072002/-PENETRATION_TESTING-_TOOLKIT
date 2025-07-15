@@ -25,7 +25,7 @@ pen_test_toolkit/
 │   ├── port_scanner.py      # Advanced multithreaded port scanner
 │   └── brute_forcer.py      # Brute force login simulator
 └── assets/
-    └── wordlist.txt         # Sample password list
+    └── wordlist.txt         #  Sample password list
  
  **Modules Included
 🔍 Port Scanner
